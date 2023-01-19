@@ -3,8 +3,8 @@ Tutorial for PHP &amp; MySQL by Mike McGrath
 
 ## PHP Keywords
 
-| --------   |--------    |--------    |--------    |-------- |
 |            |            |            |            |         |
+| --------   |--------    |--------    |--------    |-------- |
 | abstract   | and        | array      | as         | break   |
 | case       | catch      | class      | clone      | const   |
 | continue   | declare    | default    | do         | else    |
